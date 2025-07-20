@@ -1,3 +1,6 @@
+#THIS WAS UNSUCCESSFUL
+#I subsequently implemented CRPO (crpo_trpo.py) and it worked quite well
+
 import gymnasium as gym
 from collections import deque
 
